@@ -1,5 +1,7 @@
 # Jazzicon
 
+[![Gem Version](https://badge.fury.io/rb/jazzicon.svg)](https://rubygems.org/gems/jazzicon)
+
 This is a ruby port of https://github.com/danfinlay/jazzicon
 
 > Say goodbye to boring blocky identicons that look like they came out of the 70s, and replace them with jazzy, colorful collages that more likely came out of the 80's.
