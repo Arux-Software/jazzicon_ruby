@@ -4,7 +4,7 @@ This is a ruby port of https://github.com/danfinlay/jazzicon
 
 > Say goodbye to boring blocky identicons that look like they came out of the 70s, and replace them with jazzy, colorful collages that more likely came out of the 80's.
 
-![Example](https://github.com/Arux-Software/jazzicon_ruby/examples.png?raw=true)
+![Example](https://github.com/Arux-Software/jazzicon_ruby/blob/main/examples.png?raw=true)
 
 ## Installation
 
